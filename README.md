@@ -1,1 +1,1 @@
-# note-maker
+# NOTE-MAKER.github.io
